@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Güvenlik politikası";
+}
+    
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<h1 class="display-4">@ViewData["Title"]</h1>
+
+<p>Ahmet Esat Altunsoy tarafından yapılmış ve hakları saklıdır.</p>
+
+
